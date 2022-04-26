@@ -1,6 +1,9 @@
 <h1 align="center">DevFinances</h1>
 
-_Add Images and Gifs HERE!_
+<h4>WEB:</h4>
+<p align="center"><img src="https://github.com/LuisRuediger/controle-financeiro/blob/main/assets/Web%20DevFinances.gif" width="80%"/></p>
+<h4>MOBILE:</h4>
+<p align="center"><img src="https://github.com/LuisRuediger/controle-financeiro/blob/main/assets/Mobile%20DevFinances.gif" width="30%"/></p>
 
 ---
 
@@ -19,8 +22,8 @@ DevFinances é uma aplicação simples de controle financeiro pessoal, desenvolv
 - [x] Adicionar / Remover transações
 - [x] Calcular Entradas / Saídas / Balanço
 - [x] Armazenamento no LocalStorage
-- [] Editar transações
-- [] Dark mode
+- [ ] Editar transações
+- [ ] Dark mode
 
 ---
 
